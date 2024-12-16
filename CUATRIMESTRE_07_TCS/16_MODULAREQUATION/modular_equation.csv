@@ -1,0 +1,10 @@
+test_cases,expected_output,A: int,B: int
+test1,-1,0,0
+test2,-1,-792,-792
+test3,-1,208,208
+test4,0,0,680
+test5,0,-913,827
+test6,0,251,796
+test7,8,0,-885
+test8,2,974,-893
+test9,6,-148,-176

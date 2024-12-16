@@ -1,0 +1,6 @@
+test_cases,expected_output,in :str
+test1,True,()
+test2,False,)(
+test3,False,(()((
+test4,True,()
+test5,True,(())

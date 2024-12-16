@@ -1,0 +1,7 @@
+ttest_cases,expected_output,N: int,K: int
+test1,No,25,2
+test2,No,76000,10
+test3,No,38232,9
+test4,Yes,26,2
+test5,Yes,66212,10
+test6,Yes,23389,8

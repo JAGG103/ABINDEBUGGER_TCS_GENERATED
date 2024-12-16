@@ -1,0 +1,5 @@
+test_cases,expected_output,num: int
+test1,1,1
+test2,1,68
+test3,0,4
+test4,0,77

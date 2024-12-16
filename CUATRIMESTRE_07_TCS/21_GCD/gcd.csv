@@ -1,0 +1,16 @@
+test_cases,expected_output,a :int, b :int
+test1,826,826,826
+test2,406,0,406
+test3,395,395,0
+test4,1,1,29
+test5,1,513,1
+test6,1,227,373
+test7,1,907,19
+test8,7,7,833
+test9,11,429,11
+test10,2,2,340
+test11,1,2,113
+test12,2,312,2
+test13,1,765,2
+test14,5,370,635
+test15,3,627,345
